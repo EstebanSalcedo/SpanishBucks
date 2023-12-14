@@ -17,3 +17,35 @@ The verb "tener" holds significant importance in the Spanish language as it serv
 *Expressions of Time*: "Tener" is also used to express the time of day in phrases like "tener la una" (to be 1 o'clock) or "tener las tres" (to be 3 o'clock).
 
 *Expressions of Relationships*: It is used to describe relationships in phrases like "tener un hermano" (to have a brother) or "tener una amistad" (to have a friendship).
+
+## Conjugación verbo TENER en presente indicativo
+
+| Pronombre   | Conjugación en Presente |
+|-------------|-------------------------|
+| Yo          | tengo                   |
+| Tú          | tienes                  |
+| Él / Ella   | tiene                   |
+| Nosotros   | tenemos                |
+| Vosotros   | tenéis                 |
+| Ellos / Ellas | tienen              |
+
+
+## Frases usando TENER en vez de SER/ESTAR
+
+| Español                   | Inglés                          |
+|---------------------------|--------------------------------|
+| Tengo sueño.              | I am sleepy.                    |
+| Tengo pereza.             | I am lazy.                      |
+| Tengo ganas de aprender.  | I feel like learning.           |
+| Tengo hambre.             | I am hungry.                    |
+| Tengo sed.                | I am thirsty.                   |
+| Tengo frío.               | I am cold.                      |
+| Tengo calor.              | I am hot.                       |
+| Tengo miedo.              | I am afraid.                    |
+| Tengo prisa.              | I am in a hurry.                |
+| Tengo alegría.            | I am happy.                     |
+| Tengo tristeza.           | I am sad.                       |
+| Tengo preocupaciones.     | I have concerns.                |
+| Tengo curiosidad.         | I am curious.                   |
+| Tengo suerte.             | I am lucky.                     |
+
