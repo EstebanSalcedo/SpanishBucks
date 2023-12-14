@@ -39,7 +39,7 @@ Here's a table with some of the most common interrogatives, their English meanin
 | ¿Cuál/Cuáles?            | Which?                 | ¿Cuál prefieres? (Which do you prefer?)|
 | ¿Cuánto/a?        | How much/many?         | ¿Cuántos años tienes? (How old are you?)|
 
-### Qué vs Cual
+# Qué vs Cual
 |  **Qué**  |  **Cuál**  |
 |-----------|------------|
 |Dictionary questions|  Personal, open questions|
