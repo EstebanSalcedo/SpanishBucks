@@ -51,3 +51,15 @@ Now, let's create a table with some important school-related vocabulary and thei
 | Director/a    | Principal        |
 
 These are some essential words and phrases you might encounter in a school or classroom setting. Learning this vocabulary can be valuable when discussing education and academic matters in Spanish
+
+# Horario de clases:
+| **Hora**         | **Lunes**            | **Martes**           | **Miércoles**        | **Jueves**           | **Viernes**          |
+|------------------|----------------------|----------------------|-----------------------|----------------------|----------------------|
+| 08:00 - 09:00    | Matemáticas (Aula 1) | Ciencias (Aula 2)    | Español (Aula 1)      | Historia (Aula 2)    | Educación Física (Cancha) |
+| 09:15 - 10:15    | Ciencias (Aula 2)    | Inglés (Aula 1)      | Matemáticas (Aula 2)  | Español (Aula 1)     | Ciencias Sociales (Aula 2) |
+| 10:30 - 11:30    | Español (Aula 1)      | Matemáticas (Aula 2) | Educación Física (Cancha) | Ciencias (Aula 2)   | Inglés (Aula 1)     |
+| 11:45 - 12:45    | Historia (Aula 2)    | Ciencias Sociales (Aula 1) | Inglés (Aula 2) | Matemáticas (Aula 1) | Ciencias (Aula 2)    |
+| 13:00 - 14:00    | Almuerzo             | Almuerzo             | Almuerzo              | Almuerzo             | Almuerzo             |
+| 14:15 - 15:15    | Inglés (Aula 1)      | Español (Aula 2)     | Ciencias Sociales (Aula 1) | Matemáticas (Aula 2) | Historia (Aula 1)    |
+| 15:30 - 16:30    | Ciencias Sociales (Aula 2) | Educación Física (Cancha) | Inglés (Aula 1) | Español (Aula 2)  | Matemáticas (Aula 1) |
+
