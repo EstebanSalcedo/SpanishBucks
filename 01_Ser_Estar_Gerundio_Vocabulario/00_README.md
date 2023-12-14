@@ -1,12 +1,15 @@
 # Verbos "Ser" y "Estar" en Gerundio:
 
-## Ser (To Be):
+### Ser (To Be):
 
 Inglés: "Being"
+
 Español: "Siendo"
 
-## Estar (To Be):
+### Estar (To Be):
+
 Inglés: "Being"
+
 Español: "Estando"
 
 ## Verbos Regulares e Irregulares:
