@@ -25,10 +25,10 @@ Verbos Irregulares: Son aquellos que no siguen patrones de conjugación regulare
 |---------------|-----------------|-------------------|
 | Yo            | soy             | estoy             |
 | Tú            | eres            | estás             |
-| Él / Ella     | es              | está              |
+| Él / Ella / Usted     | es              | está              |
 | Nosotros/Nosotras | somos      | estamos           |
 | Vosotros/Vosotras | sois        | estáis            |
-| Ellos/Ellas   | son             | están             |
+| Ellos/Ellas/Ustedes   | son             | están             |
 
 ## Cuando se usa SER:
 | **Uso**                    | **Ejemplo**                       |
